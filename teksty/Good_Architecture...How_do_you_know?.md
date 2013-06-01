@@ -69,9 +69,9 @@ This is all detailed (in Polish) on [my SlideShare](http://www.slideshare.net/To
 
 **Critical remarks:**
 
-    all content could have been in one place
-    slides aren’t as nice to absorb as Prezi
-    I might have mentioned (or underlined more) that it’s quite unlikely to ever get rid of technical debt completely
+1.    all content could have been in one place
+2.    slides aren’t as nice to absorb as Prezi
+3.    I might have mentioned (or underlined more) that it’s quite unlikely to ever get rid of technical debt completely
 
 I quite agree with all three. In addition, next time I’ll have more control of the time. I ended in control, but I had to skip few points I wanted to tell more about.
 
