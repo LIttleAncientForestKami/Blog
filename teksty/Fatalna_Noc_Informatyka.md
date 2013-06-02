@@ -7,6 +7,10 @@ Noc Informatyka miała miejsce w tym roku w nocy z 25-26 maja i - [jak zapowiada
 
 -----------------------
 
+Tytułem wstępu
+==============
+Jestem po kilku imprezach w tym roku i to, co piszę, piszę niejako w porównaniu do 4Developers czy GeeCONa.
+
 O imprezie
 ==========
 Nocna pora, miejscem [klub studencki](http://nocinformatyka.pl/miejsce.html), uczestnikami studenci (choć nie tylko), kupony na piwo (dostępne na miejscu) ograniczone do 22. Nieformalny charakter imprezy jest podkreślany w każdej z tych rzeczy, tak samo jak jest podkreślany w prawie każdym opisie Nocy na jaki się natknąłem. Uznałem to za barwne, nietypowe w fajny sposób. W pewien sposób odświeżające.
@@ -52,7 +56,7 @@ Prezentacje
 
 **Uwierzytelnianie serwerów pocztowych** było kursem przez protokoły. Slajdy z mnóstwem tekstu, definicjami z Wikipedii itp. zniechęciły mnie do dalszego udziału.
 
-**Arduino based RC car** było moją ulubioną prezentacją. **Tomek Oleksa** opowiedział o tym, jak zrealizował swoje dziecięce marzenie, by mieć samochodzik zdalnie sterowany, z kamerą. Taką szpiegowską zabawkę. Brak zblazowania u Tomka, który w pierwszych słowach prezentacji wytknął wady swego projektu, jak i rzetelne podejście do tematu (co, jak, czemu) były warte uwagi.
+**Arduino based RC car** było moją drugą (po Piotrze) ulubioną prezentacją. **Tomek Oleksa** opowiedział o tym, jak zrealizował swoje dziecięce marzenie, by mieć samochodzik zdalnie sterowany, z kamerą. Taką szpiegowską zabawkę. Brak zblazowania u Tomka, który w pierwszych słowach prezentacji wytknął wady swego projektu, jak i rzetelne podejście do tematu (co, jak, czemu) były warte uwagi.
 
 **Kryptowaluty** były prezentacją potencjalnie ciekawą, ale prezenter mnie stracił kiedy od "będę mówił o kryptowalutach" przeskoczył do "górników kopiących w blokach". Materiał był zwięzłą powtórką dla znających temat - co niekoniecznie było błędem, przynajmniej czterech takich było w sali i aktywnie się udzielało.
 
