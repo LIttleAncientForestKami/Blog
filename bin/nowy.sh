@@ -9,13 +9,11 @@ TITLE_LENGTH=${#TITLE}
 # debug block
 #echo $1 
 #echo $TITLE 
-#echo $TITLE > $FILENAME
 #exit
+echo $TITLE > $FILENAME
 echo "=====================================" >> $FILENAME
 
-
 vim $FILENAME
-
 
 # add meta info
 echo -e "\n\nPost meta\n=========\n" >> $FILENAME
