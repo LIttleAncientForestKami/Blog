@@ -1,4 +1,6 @@
-Post should be backdated to 24th November, but it got stuck among drafts for few finishing touches. Lesson: publish drafts, add polish later. :-) It talks about one very exciting week I had, when each day brought some kind of experience, a revelation or other epiphany, that changed something within me or was truly fascinating.
+Post backdated to 24th November, since it got stuck among drafts for few finishing touches. Lesson: publish drafts; add polish later. :-) 
+
+It talks about one very exciting week I had, when each day brought some kind of experience, a revelation or other epiphany, that changed something within me or was truly fascinating.
 
 Czego się nauczyłem ostatnio
 =============================
@@ -17,7 +19,7 @@ W pełni rozumiem, dlaczego buddyjski mędrzec omawiał którąs tam sutrę prze
 
 Japoński system medyczny
 ------------------------
-Z mangi dość ciekawej, bo powiedziałbym że z misją, dowiedziałem się jak wygląda życie praktykanta medycyny w Japonii. Say Hello to Black Jack to manga o właśnie takim praktykancie, który przez dwa lata ma skakać pomiędzy działami w szpitalu, by potem wybrać w jakim kierunku będzie się rozwijał.
+Z mangi dość ciekawej, bo powiedziałbym że z misją, dowiedziałem się jak wygląda życie praktykanta medycyny w Japonii. **Say Hello to Black Jack** to manga o właśnie takim praktykancie, który przez dwa lata ma skakać pomiędzy działami w szpitalu, by potem wybrać w jakim kierunku będzie się rozwijał.
 
 Perypetie tytułowego bohatera są pretekstem do pokazania tego, co i jak dzieje się w szpitalach.
 
@@ -37,29 +39,30 @@ Angielskojęzyczna recenzja: http://frederation.wordpress.com/2009/09/27/book-re
 
 Nowa wirtualna maszyna
 ----------------------
-JVM jest czymś absolutnie niesamowitym. Jak na ostatnim GeeCONie rozmawiałem ze Stevem Poolem, rzekł on - patrząc na koszulki GeeCONowców - jedno zdanie, które naprawdę mi zapadło w pamięć:
+JVM jest czymś absolutnie niesamowitym. Jak na ostatnim **GeeCON**ie rozmawiałem ze **Stevem Poolem**, rzekł on - patrząc na koszulki GeeCONowców - jedno zdanie, które naprawdę mi zapadło w pamięć:
 
-They are right, you know. It really is a kind of magic.
+> They are right, you know. It really is a kind of magic.
 
 <tu obraz koszulki>
 
-Kiedy zatem na ostatnim SCKRK (ach! nieocenione SCKRK!) mieliśmy omówić publikację pod tytułem "One VM to rule them all" to na tyle się nakręciłem, że pojawiłem się na spotkaniu tydzień wcześniej. :D
+Kiedy zatem na ostatnim **SCKRK** (ach! nieocenione SCKRK!) mieliśmy omówić publikację pod tytułem "One VM to rule them all" to na tyle się nakręciłem, że pojawiłem się na spotkaniu tydzień wcześniej. :D
 
-Truffle i Graal to faktycznie cholernie ciekawa sprawa. Po pierwsze cele: wydajna maszyna wirtualna dla wszystkiego, ale głównie dla języków dynamicznie typowanych, do tego modyfikacje AST i deoptymalizacje jeśli modyfikacje okazują się niewypałem.
+**Truffle** i **Graal** to faktycznie cholernie ciekawa sprawa. Po pierwsze cele: wydajna maszyna wirtualna dla wszystkiego, ale głównie dla języków dynamicznie typowanych, do tego modyfikacje AST i deoptymalizacje jeśli modyfikacje okazują się niewypałem.
 
 Po drugie idea przepisywania węzłów w drzewie AST i pomysły jak i kiedy to robić.
 
 Wreszcie zgranie obu projektów: Truffle daje API do przerobienia języka na drzewo AST, zaś Graal udostępnia API swoje i JITa, by kompilacje można było robić na większą skalę niż w zwykłym JVMie.
 
 Publikacja jest naprawdę miodna. Polecam: 
-http://www.meetup.com/sc-krk/events/150131922/ - spotkanie SCKRK poświęcone Graalowi i Truffle,
-http://www.cs.purdue.edu/homes/gkrichar/papers/onward2013-wuerthinger-truffle.pdf - oryginalny artykuł,
-https://wiki.openjdk.java.net/display/Graal/Publications+and+Presentations - publikacje ze strony projektu.
+
+1. http://www.meetup.com/sc-krk/events/150131922/ - spotkanie SCKRK poświęcone Graalowi i Truffle,
+2. http://www.cs.purdue.edu/homes/gkrichar/papers/onward2013-wuerthinger-truffle.pdf - oryginalny artykuł,
+3. https://wiki.openjdk.java.net/display/Graal/Publications+and+Presentations - publikacje ze strony projektu.
 
 
 Szczęście
 ---------
-Jakiś już czas temu trafił do mnie filmik z TedX'a, na którym Shawn Anchor(sp?) z szybkością karabinu maszynowego opowiadał o pozytywnej psychologii. Dziś trafiłem na książkę, której autor pojeździł po świecie by zbadać co szczęście oznacza w różnych krajach.
+Jakiś już czas temu trafił do mnie filmik z TedX'a, na którym **Shawn Achor** z szybkością karabinu maszynowego opowiadał o pozytywnej psychologii. Dziś trafiłem na książkę **Geografia szczęścia**, której autor pojeździł po świecie by zbadać co szczęście oznacza w różnych krajach.
 
 I cholernie ciekawe miał obserwacje.
 
@@ -69,16 +72,16 @@ W Islandii ludzie zmieniają kariery jak chcą i kiedy chcą. Jeśli po kilku la
 
 Szczęście - jeśli wierzyć badaniom holenderskiego profesora, co rzeczoną bazę założył i ją rozszerza, nie jest rozłożone tak, jak równe czy nierówne dochody. Kraje mające równe dochody nie są najszczęśliwsze, bywa, że kraje w których różnice w zarobkach mieszkańców są bardzo wysokie, są - średnio per mieszkaniec - szczęśliwsze.
 
-Lektura mnie wciągnęła, muszę rzec. Książkę Beata wyciągnęła z bezkartek.pl, za punkty z Benefitu.
+Lektura mnie wciągnęła, muszę rzec. Książkę Beata wyciągnęła z http://bezkartek.pl, za punkty z Benefitu.
 
 
 Wisienka na torcie
 ------------------
-To naprawdę mesmeryzująca strona flightradar24.com, pokazująca powietrzny ruch. Spojrzenie ile samolotów kręci się nad Londynem, Paryżem czy w ogóle Europą - a Polską w szczególności - i skąd lecą - świetne, nowe spojrzenie na świat. Bardzo dziękuję tak mej pani jak i memu ojcu. :-) Normalnie rewelacja.
+To naprawdę mesmeryzująca strona http://flightradar24.com, pokazująca powietrzny ruch. Spojrzenie ile samolotów kręci się nad Londynem, Paryżem czy w ogóle Europą - a Polską w szczególności - i skąd lecą - świetne, nowe spojrzenie na świat. Bardzo dziękuję tak mej pani jak i memu ojcu. :-) Normalnie rewelacja.
 
 
-Post meta
+Post meta 
 =========
 
-Tags: nauka, JVM, SCKRK, manga, tydzień, PL, szczęście
+Tags: nauka, JVM, Truffle, Graal, SCKRK, manga, tydzień, PL, szczęście
 Date: 2013-11-24 02:39
