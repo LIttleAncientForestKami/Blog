@@ -72,7 +72,7 @@ W Islandii ludzie zmieniają kariery jak chcą i kiedy chcą. Jeśli po kilku la
 
 Szczęście - jeśli wierzyć badaniom holenderskiego profesora, co rzeczoną bazę założył i ją rozszerza, nie jest rozłożone tak, jak równe czy nierówne dochody. Kraje mające równe dochody nie są najszczęśliwsze, bywa, że kraje w których różnice w zarobkach mieszkańców są bardzo wysokie, są - średnio per mieszkaniec - szczęśliwsze.
 
-Lektura mnie wciągnęła, muszę rzec. Książkę Beata wyciągnęła z http://bezkartek.pl, za punkty z Benefitu.
+Lektura mnie wciągnęła, muszę rzec. Książkę Beata wyciągnęła z http://bezkartek.pl, za punkty z Benefitu, Shawna filmik tutaj: http://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work.html.
 
 
 Wisienka na torcie
