@@ -20,12 +20,12 @@ Everything goes to "Rome".
 7. **Prototyping** is as pretotyping, just with more features and more likely to be a viable product.
 8. And speaking of viable products... **MVP** of course, of lean "franchise".
 
-Wonder
-------
-All those ways to reach the same goal and yet we so often get lost somewhere.
+I wonder now...
+---------------
+All those ways to reach the same goal and yet so often we get lost somewhere along them.
 
 Post meta
 =========
 
-Tags: pretotyping design prototyping lean mvp goal requirements
+Tags: pretotyping, design, prototyping, lean, mvp, goal, requirements engineering, agile, DDD, TDD, tests
 Date: 2014-03-09 15:23
