@@ -16,7 +16,7 @@ To get most of this post, first read / watch the following.
 2. Language matters - a really illuminating summary of Lera Boroditsky's studies and experiments showing how much people are influenced by language used, how it shapes their thinking and frames mindsets. Just being offered a different metaphor can greatly affect proposed solutions by people facing same problem.
 
 3. Untamed rather than legacy - the fact that language matters caused me personally to prefer first rather than second phrase. Legacy code shifts responsibility and makes programmers look at the problem in a way that inhibits, rather than helps solutions-finding. 
-
+ 
 The obvious
 -----------
 It's untamed code, uncharted territory, alas no-one knows how long it will take, and when pressed for estimates, folks will answer with years of works for everybody on the team(s).
@@ -54,9 +54,9 @@ Now that's the crux of that post. That's the part that I'm baffled about the mos
 
 ### FAILURES
 Number One. Failures. Fate of those, who attempt such rewrite usually fail. There's a combination of reasons for failure that rarely has anything to do with skill of poor daredevils. It has however, a LOT to do with approach chosen.
-
+ 
 ### LEARNED FROM MISTAKES
-Number Two, and the more interesting one as well. Those who failed but persisted (or just had to find a way because they were consultants dealing with many such cases), realized something in the process.
+N umber Two, and the more interesting one as well. Those who failed but persisted (or just had to find a way because they were consultants dealing with many such cases), realized something in the process.
 
 **It's about knowledge.** 
 
@@ -75,7 +75,7 @@ Whatever you aim for - you must not touch other sticks but get Mikado stick. The
 
 Method tries to portray your steps to Mikado stick (aka your goal) on a graph, so that you have the knowledge of what's required.
 
-
+ 
 #### Feathers Seams and Sketches
 Michael Feathers proposed to write Effect Sketches, where you would try to capture what will be affected if you change certain component / class / whatever. That way you are able to glimpse into how much risk given change brings. Sketches aone weren't enough, he also proposed following algorithm for changing legacy code:
 
@@ -84,11 +84,11 @@ Michael Feathers proposed to write Effect Sketches, where you would try to captu
 3. Make change
  
 Chokepoints would be narrow points where module changes would manifest themselves for certain. 
-
+ 
 #### Ivy pattern
 Another idea stemming from a failed big bang rewrite. Name comes from how ivy strangles even large plants, by intercepting light and water that they normally get. Now, make your unwanted module/system/component such plant and do a thin layer that just intercepts all inputs and either directs them to newly written code or lets them go without interference.
 
-
+ 
 Summary
 =======
 Don't blindly attempt it.
@@ -100,6 +100,19 @@ Again, **it's about knowledge**. It's not whether you have inherited it or wrote
 **Others have been there**, use their wisdom instead of learning it the hard way. Look up Mikado method, Feather's seams and sketches or think of cutting out module by module with Ivy / Strangler pattern. 
 
 Don't guesstimate, do yourself a favour and hack at it for some time just to see what you have there. It's about knowledge, remember?
+
+
+Further reading
+===============
+
+0. Prerequisites:
+  1. Peter Naur: Programming is Theory Building
+  2. Lera Boroditsky: Language Shapes Thought
+  3. TBA: my blog post on why untamed rather than legacy.
+1. The Mikado Method whitepaper
+2. The Ivy Pattern (Strangler Pattern) paper
+3. The Ivy Pattern (Strangler Pattern) - Martin Fowler's blog
+4. Michael Feathers: Working Effectively with Legacy Code
 
 
 Post meta
