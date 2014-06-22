@@ -62,7 +62,7 @@ N umber Two, and the more interesting one as well. Those who failed but persiste
 
 So, there are couple of ways folks devised to actually have their purpose achieved AND avoid rewriting blindly. 
 
-1. The Mikado Method - by ...?
+1. The Mikado Method - by Daniel Brolund and Ola Ellnestam
 2. Feather's Seams and Sketches approach, from his most famous Working Effectively with Legacy Code.
 3. Ivy pattern, popularized by ThoughtWorks.
 
@@ -75,20 +75,23 @@ Whatever you aim for - you must not touch other sticks but get Mikado stick. The
 
 Method tries to portray your steps to Mikado stick (aka your goal) on a graph, so that you have the knowledge of what's required.
 
- 
-#### Feathers Seams and Sketches
-Michael Feathers proposed to write Effect Sketches, where you would try to capture what will be affected if you change certain component / class / whatever. That way you are able to glimpse into how much risk given change brings. Sketches aone weren't enough, he also proposed following algorithm for changing legacy code:
+Credits: _Ola Ellnestam_ and _Daniel Brolund_.
 
-1. Find chokepoints
-2. Write tests
-3. Make change
+#### Feathers Seams and Sketches
+_Michael Feathers_ proposed to write Effect Sketches, where you would try to capture what will be affected if you change certain component / class / whatever. That way you are able to glimpse into how much risk given change brings. Sketches aone weren't enough, he also proposed following algorithm for changing legacy code:
+
+1. Identify change points
+2. Find test points - chokepoints for changed module.
+3. Break dependencies: internal, then external.
+4. Write tests
+4. Make changes and refactor - last point!
  
-Chokepoints would be narrow points where module changes would manifest themselves for certain. 
+Chokepoints would be narrow points where module changes would manifest themselves for certain, and thus the points where side-effects of our change can be spotted. 
  
 #### Ivy pattern
 Another idea stemming from a failed big bang rewrite. Name comes from how ivy strangles even large plants, by intercepting light and water that they normally get. Now, make your unwanted module/system/component such plant and do a thin layer that just intercepts all inputs and either directs them to newly written code or lets them go without interference.
 
- 
+
 Summary
 =======
 Don't blindly attempt it.
@@ -107,16 +110,21 @@ Further reading
 
 0. Prerequisites:
   1. Peter Naur: Programming is Theory Building
-  2. Lera Boroditsky: Language Shapes Thought
+  2. Lera Boroditsky, Language Shapes Thought: http://fora.tv/2010/10/26/Lera_Boroditsky_How_Language_Shapes_Thought#fullprogram
   3. TBA: my blog post on why untamed rather than legacy.
-1. The Mikado Method whitepaper
-2. The Ivy Pattern (Strangler Pattern) paper
-3. The Ivy Pattern (Strangler Pattern) - Martin Fowler's blog
-4. Michael Feathers: Working Effectively with Legacy Code
+1. The Mikado Method:
+  1. Official webpage: http://mikadomethod.org/
+  2. Mannning, buy the book: http://www.manning.com/ellnestam/
+  3. Whitepaper (turned into a book, sadly, so no freebie): http://www.agical.com/mikmeth/mikadomethod.pdf
+2. The Ivy Pattern (Strangler Pattern):
+  1. Original paper: http://cdn.pols.co.uk/papers/agile-approach-to-legacy-systems.pdf
+  2. Martin Fowler's blog: http://martinfowler.com/bliki/StranglerApplication.html
+  3. SO question with risks outlined: http://stackoverflow.com/questions/1118804/application-strangler-pattern-experiences-thoughts
+3. Michael Feathers: Working Effectively with Legacy Code
 
 
 Post meta
 =========
 
-Tags: untamed, big bang rewrite, rewrite, Michael Feathers, Seams and Sketches, Mikado method, Ivy pattern, Strangler pattern, "legacy", Peter Naur, Lera Boroditsky, language, programming
+Tags: untamed, big bang rewrite, rewrite, Michael Feathers, Seams and Sketches, Mikado method, Ivy pattern, Strangler pattern, "legacy", Peter Naur, Lera Boroditsky, language, programming, Ola Ellnestam, Daniel Brolund
 Date: 2014-06-21 10:59
